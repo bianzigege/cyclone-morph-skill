@@ -46,6 +46,14 @@ When the user explicitly requests four images, use these levels and inherit each
 
 Do not simply split the final prompt into four copies. The 20% stage preserves almost all of the source; 45% introduces a clear hybrid; 70% is nearly atmospheric; 100% is the full satellite cyclone.
 
+## Optional mood modifier
+
+Use the default satellite mood unless the user explicitly asks for a psychedelic or hippie direction.
+
+```text
+Visual mood: optional 1960s psychedelic hippie poster sensibility, organic hand-screen-printed grain, flowing tie-dye color transitions, deep indigo, turquoise, teal, saffron yellow, burnt orange, coral, magenta, violet, and cream. Integrate the colors into the cyclone’s cloud flow and preserve the eye, eyewall, rainbands, outer bands, inherited center, and source-derived structure. No text, logos, decorative symbols, glossy neon CGI, or unrelated objects.
+```
+
 ## Follow-up prompts
 
 ### A — Preserve more source

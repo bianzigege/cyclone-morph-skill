@@ -1,6 +1,6 @@
 ---
 name: cyclone-morph-skill
-description: "User-facing image transformation flow for “气旋三阶｜Cyclone Progression”, a universal cyclone-ization skill. Turn any single uploaded subject—portrait, person, animal, object, product, building, vehicle, logo, artwork, room, landscape, or abstract shape—through three linked stages at approximately 30%, 60%, and 100% cyclone transformation. Use when the user asks to cyclone-ize, typhoon-ize, hurricane-ize, stormify, or transform an image into satellite typhoon imagery."
+description: "User-facing image transformation flow for “气旋三阶｜Cyclone Progression”, a universal cyclone-ization skill. Turn any single uploaded subject—portrait, person, animal, object, product, building, vehicle, logo, artwork, room, landscape, or abstract shape—through three linked stages at approximately 30%, 60%, and 100% cyclone transformation, with an optional psychedelic hippie visual mood. Use when the user asks to cyclone-ize, typhoon-ize, hurricane-ize, stormify, or transform an image into satellite typhoon imagery."
 ---
 
 # 气旋三阶｜Cyclone Progression
@@ -112,7 +112,22 @@ storm_level: strong
 scale_level: regional
 output_ratio: original
 satellite_realism: very_high
+visual_mood: satellite_cold
 ```
+
+### Optional visual mood
+
+Use **冷峻卫星｜Satellite Cold** by default: deep navy, blue-grey, silver-white clouds, restrained cyan, documentary meteorological realism.
+
+If the user asks for “嬉皮一点”“迷幻一点”“像 60 年代海报” or similar, use **迷幻嬉皮｜Psychedelic Hippie** across the selected stages:
+
+- use organic hand-screen-printed or lightly grainy texture;
+- use deep indigo, turquoise, teal, saffron yellow, burnt orange, coral, magenta, violet, and cream;
+- keep the cyclone’s eye, eyewall, rainbands, outer bands, center, and inherited source structure;
+- integrate color into the cloud flow instead of adding decorative stripes, symbols, or text;
+- preserve the staged recognizability rules: 30% still shows the source, 60% remains a hybrid, 100% is fully cyclone-shaped.
+
+Do not make the psychedelic mood the default unless requested. It should feel handmade, free-spirited, and visually warm, not like glossy neon CGI.
 
 ### 5. Ask for the next-step choice
 
