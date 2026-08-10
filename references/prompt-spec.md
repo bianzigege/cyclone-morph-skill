@@ -48,10 +48,18 @@ Do not simply split the final prompt into four copies. The 20% stage preserves a
 
 ## Optional mood modifier
 
-Use the default satellite mood unless the user explicitly asks for a psychedelic or hippie direction.
+Use the default satellite mood unless the user explicitly asks for a psychedelic, hippie, or orange-editorial direction.
 
 ```text
 Visual mood: optional 1960s psychedelic hippie poster sensibility, organic hand-screen-printed grain, flowing tie-dye color transitions, deep indigo, turquoise, teal, saffron yellow, burnt orange, coral, magenta, violet, and cream. Integrate the colors into the cyclone’s cloud flow and preserve the eye, eyewall, rainbands, outer bands, inherited center, and source-derived structure. No text, logos, decorative symbols, glossy neon CGI, or unrelated objects.
+```
+
+### Orange Editorial Cyclone
+
+Use this mood when the user refers to **橙线气旋｜Orange Line Cyclone**, a black-white-orange editorial workbench feel, or the supplied visual reference.
+
+```text
+Visual mood: orange-editorial cyclone, with a bright white, silver-white, or pale grey cloud-field canvas; near-black structural shadows, deep cloud gaps, broken lines, and negative space; and vivid orange used sparingly as the visual center, a few spiral bands, eyewall highlights, or action-signal accents. Translate the source’s modular editorial rhythm—cards, borders, alignment, wide whitespace, labels, and sectioning—into storm geometry. At 30%, keep the black/white/orange organization and source layout readable while only local lines, borders, or accents begin to curl. At 60%, let most modules dissolve into one inherited storm center and coherent cloud flow. At 100%, remove readable UI, buttons, logos, and text; preserve only the source’s center, proportions, spacing rhythm, and color relationship as hidden visual DNA. The result must still be a believable cyclone with eye, eyewall, rainbands, and outer cloud bands. No orange gradient, sticker collage, information poster, cyberpunk neon, 3D interface, random icons, or invented text.
 ```
 
 ## Follow-up prompts

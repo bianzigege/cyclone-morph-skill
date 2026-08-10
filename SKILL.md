@@ -1,6 +1,6 @@
 ---
 name: cyclone-morph-skill
-description: "User-facing image transformation flow for “气旋三阶｜Cyclone Progression”, a universal cyclone-ization skill. Turn any single uploaded subject—portrait, person, animal, object, product, building, vehicle, logo, artwork, room, landscape, or abstract shape—through three linked stages at approximately 30%, 60%, and 100% cyclone transformation, with an optional psychedelic hippie visual mood. Use when the user asks to cyclone-ize, typhoon-ize, hurricane-ize, stormify, or transform an image into satellite typhoon imagery."
+description: "User-facing image transformation flow for “气旋三阶｜Cyclone Progression”, a universal cyclone-ization skill. Turn any single uploaded subject—portrait, person, animal, object, product, building, vehicle, logo, artwork, room, landscape, or abstract shape—through three linked stages at approximately 30%, 60%, and 100% cyclone transformation, with optional psychedelic hippie and orange-editorial visual moods. Use when the user asks to cyclone-ize, typhoon-ize, hurricane-ize, stormify, or transform an image into satellite typhoon imagery."
 ---
 
 # 气旋三阶｜Cyclone Progression
@@ -128,6 +128,17 @@ If the user asks for “嬉皮一点”“迷幻一点”“像 60 年代海报�
 - preserve the staged recognizability rules: 30% still shows the source, 60% remains a hybrid, 100% is fully cyclone-shaped.
 
 Do not make the psychedelic mood the default unless requested. It should feel handmade, free-spirited, and visually warm, not like glossy neon CGI.
+
+If the user asks for “橙线气旋”“黑白橙”“编辑台感”“像这个视觉参考” or similar, use **橙线气旋｜Orange Line Cyclone** across the selected stages:
+
+- use white, silver-white, and pale grey as the cloud-field canvas;
+- use near-black for deep cloud gaps, structural shadows, broken lines, and negative space;
+- use vivid orange sparingly for the visual center, a few spiral bands, eyewall highlights, or action-signal accents;
+- translate the source’s modular layout, cards, borders, alignment, wide whitespace, and editorial rhythm into storm structure;
+- preserve the source-to-cyclone progression: at 30% the black/white/orange organization remains readable, at 60% it becomes a hybrid storm system, and at 100% only the organization, center, proportions, and color rhythm remain as hidden source DNA;
+- if the source contains text, do not invent or add text: preserve only the original text as a temporary recognition cue at 30%, let it become non-readable line texture by 60%, and remove readable text completely at 100%.
+
+The orange-editorial mood must still read as a cyclone with an eye, eyewall, rainbands, and outer cloud bands. It is not a UI screenshot, information poster, orange gradient, sticker collage, cyberpunk neon effect, or 3D interface render.
 
 ### 5. Ask for the next-step choice
 

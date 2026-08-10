@@ -41,24 +41,32 @@
 
 30% 保留原图，局部开始变成旋涡；60% 让大部分结构进入云系；100% 完全成为卫星台风，但仍然继承原图的中心、流向和明暗关系。
 
-## 两种气质
+## 三种气质
 
-默认是冷峻的卫星影像，也可以切换成更有手工海报和迷幻嬉皮感觉的版本。
+默认是冷峻的卫星影像，也可以切换成迷幻嬉皮或黑白橙的编辑台气旋感。
 
 <div align="center">
   <table>
     <tr>
       <td align="center"><img src="examples/stage-100.png" alt="冷峻卫星风格" width="390"></td>
       <td align="center"><img src="examples/hippie-cyclone.png" alt="迷幻嬉皮风格" width="390"></td>
+      <td align="center"><img src="examples/reference-orange-editorial-cyclone.png" alt="橙线气旋视觉参考" width="390"></td>
     </tr>
     <tr>
       <th>冷峻卫星</th>
       <th>迷幻嬉皮</th>
+      <th>橙线气旋</th>
     </tr>
   </table>
 </div>
 
 嬉皮版本会使用更大胆的靛蓝、青绿、橙黄、珊瑚、洋红和紫色，并加入轻微的手工印刷颗粒，但气旋的眼、眼墙和旋臂结构不变。
+
+新增的 **橙线气旋｜Orange Line Cyclone** 借用编辑台的白底、黑色结构线、模块秩序和少量橙色行动信号，再把它们逐级卷入同一个气旋中心。参考图只提供色彩与结构气质，最终 100% 阶段不会保留 UI、按钮或可读文字。
+
+<div align="center">
+  <img src="examples/reference-orange-editorial-cyclone.png" alt="橙线气旋视觉参考" width="760">
+</div>
 
 ## 使用
 
@@ -75,3 +83,29 @@
 - [`examples/`](examples/) — 示例图片
 
 用户明确要求时，也可以使用四阶段：**20% → 45% → 70% → 100%**。
+
+## 辫子哥哥气旋化案例
+
+这组案例把 Skill 的视觉语言延伸到作者自己的 IP：保留辫子、黑色线稿和传统服饰，再让气旋成为角色的环境、动作和结构的一部分。
+
+### 带标题封面
+
+<div align="center">
+  <img src="examples/covers/cover-wechat-wide-1926x816-v1.png" alt="公众号横图封面" width="900">
+  <br><br>
+  <img src="examples/covers/cover-wechat-square-1254x1254-v1.png" alt="公众号方形拼图封面" width="520">
+</div>
+
+### 无文字 IP 插画
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="examples/ip/bianzi-ip-cyclone-desk-1086x1448-v1.png" alt="辫子哥哥在工作台进行气旋化创作" width="260"></td>
+      <td><img src="examples/ip/bianzi-ip-cyclone-stages-1086x1448-v1.png" alt="辫子哥哥观察三阶段气旋" width="260"></td>
+      <td><img src="examples/ip/bianzi-ip-cyclone-hippie-1086x1448-v1.png" alt="迷幻嬉皮气旋中的辫子哥哥" width="260"></td>
+    </tr>
+  </table>
+</div>
+
+对应的生成提示词与使用说明见 [`references/generated-case-prompts.md`](references/generated-case-prompts.md)。
