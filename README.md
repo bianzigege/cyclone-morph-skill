@@ -91,6 +91,8 @@
 ### 带标题封面
 
 <div align="center">
+  <img src="examples/covers/cover-showcase-wide-square-2400x760-v1.png" alt="公众号横图与方形拼图并排展示" width="1100">
+  <br><br>
   <img src="examples/covers/cover-wechat-wide-1926x816-v1.png" alt="公众号横图封面" width="900">
   <br><br>
   <img src="examples/covers/cover-wechat-square-1254x1254-v1.png" alt="公众号方形拼图封面" width="520">
