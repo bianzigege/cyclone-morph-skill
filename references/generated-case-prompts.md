@@ -2,11 +2,11 @@
 
 这组案例使用仓库既有的辫子哥哥 IP 参考图，统一保留：黑色蓬松发型、长辫子、友好的圆眼、黑色线稿和深色传统服饰。提示词中的“approved Bianzi Ge IP reference”指作者现有 IP 参考图，不是新增角色设定。
 
-## 0. 横图 + 1:1 拼接展示图
+## 0. 横图 + 1:1 上下拼接展示图
 
-- 文件：`examples/covers/cover-showcase-wide-square-2400x760-v1.png`
-- 用途：在 README、Obsidian 或案例文章里并排展示两种封面规格
-- 说明：这是确定性排版拼图，左侧为公众号横图，右侧为 1:1 方形拼图；不重新生成或改写原图文字。
+- 文件：`examples/covers/cover-showcase-stacked-wide-square-1400x1900-v1.png`
+- 用途：在 README、Obsidian 或案例文章里上下展示两种封面规格
+- 说明：这是确定性排版拼图，上方为公众号横图，下方为 1:1 方形拼图；不重新生成或改写原图文字。
 
 ## 1. 公众号横图封面
 

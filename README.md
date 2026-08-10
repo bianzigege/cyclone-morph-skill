@@ -50,23 +50,17 @@
     <tr>
       <td align="center"><img src="examples/stage-100.png" alt="冷峻卫星风格" width="390"></td>
       <td align="center"><img src="examples/hippie-cyclone.png" alt="迷幻嬉皮风格" width="390"></td>
-      <td align="center"><img src="examples/reference-orange-editorial-cyclone.png" alt="橙线气旋视觉参考" width="390"></td>
     </tr>
     <tr>
       <th>冷峻卫星</th>
       <th>迷幻嬉皮</th>
-      <th>橙线气旋</th>
     </tr>
   </table>
 </div>
 
 嬉皮版本会使用更大胆的靛蓝、青绿、橙黄、珊瑚、洋红和紫色，并加入轻微的手工印刷颗粒，但气旋的眼、眼墙和旋臂结构不变。
 
-新增的 **橙线气旋｜Orange Line Cyclone** 借用编辑台的白底、黑色结构线、模块秩序和少量橙色行动信号，再把它们逐级卷入同一个气旋中心。参考图只提供色彩与结构气质，最终 100% 阶段不会保留 UI、按钮或可读文字。
-
-<div align="center">
-  <img src="examples/reference-orange-editorial-cyclone.png" alt="橙线气旋视觉参考" width="760">
-</div>
+新增的 **橙线气旋｜Orange Line Cyclone** 只通过提示词定义白底、黑色结构线、模块秩序和少量橙色行动信号，不上传编辑台或 Obsidian 截图。最终 100% 阶段不会保留 UI、按钮或可读文字。
 
 ## 使用
 
@@ -91,7 +85,7 @@
 ### 带标题封面
 
 <div align="center">
-  <img src="examples/covers/cover-showcase-wide-square-2400x760-v1.png" alt="公众号横图与方形拼图并排展示" width="1100">
+  <img src="examples/covers/cover-showcase-stacked-wide-square-1400x1900-v1.png" alt="公众号横图与方形拼图上下展示" width="800">
   <br><br>
   <img src="examples/covers/cover-wechat-wide-1926x816-v1.png" alt="公众号横图封面" width="900">
   <br><br>
